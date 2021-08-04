@@ -1,0 +1,11 @@
+Flutter Expense Planner. 
+It keep track of expenses in a list group by day and show it in chart which sums up what we spend over the last week.
+
+Row, column aligment, use intl library to parse dateTime, List view, validation. 
+add acion to app bar. 
+floating button and locat it.
+build model bottom sheet.
+Handle theme of app and fonts.
+UI Responsiveness. 
+Handel diff between android and ios and between orientation.
+
